@@ -16,5 +16,15 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void skaic_mygtukas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pies_mygtukas_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
